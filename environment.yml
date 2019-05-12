@@ -1,0 +1,29 @@
+name: disney-magic-mirror
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2019.1.23
+  - certifi=2019.3.9
+  - libedit=3.1.20181209
+  - libffi=3.2.1
+  - ncurses=6.1
+  - openssl=1.1.1b
+  - pip=19.1
+  - python=3.7.3
+  - readline=7.0
+  - setuptools=41.0.1
+  - sqlite=3.28.0
+  - tk=8.6.8
+  - wheel=0.33.1
+  - xz=5.2.4
+  - zlib=1.2.11
+  - pip:
+    - pocketsphinx==0.1.15
+    - py==1.8.0
+    - pyaudio==0.2.11
+    - pygame==1.9.6
+    - pyopengl==3.1.0
+    - speechrecognition==3.8.1
+    - tqdm==4.31.1
+prefix: /Users/benjamingenchel/anaconda/envs/disney-magic-mirror
+
