@@ -1,0 +1,24 @@
+# Blender MTL File: 'Face.blend'
+# Material Count: 2
+
+newmtl 151_material00.png
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.432513 0.359870 0.622041
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd /Users/benjamingenchel/Dropbox/Documents/Projects/DisneyMagicMirror/model/mask_front.png
+
+newmtl 151_material01.png
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.623976 0.678254 0.642487
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd /Users/benjamingenchel/Dropbox/Documents/Projects/DisneyMagicMirror/model/mask_back.png
